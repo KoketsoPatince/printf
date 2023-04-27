@@ -1,16 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
-<<<<<<< HEAD
+
 int _printf(const char *format, ...);
 #endif
-
-=======
-#include <stdarg.h>
-
-#include <unistd.h>
-
-
-
 
 /* FLAGS */
 #define F_MINUS 1
